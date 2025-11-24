@@ -1,4 +1,4 @@
 
 ## About Our Team
 
-We are **NTU-RL2025-02**, a student research team from the NTUEE Reinforcement Learning course. We focus on safe imitation learning for robotic manipulation.
+We are **import pytorch as np**, student research team-02 from the 2025 NTUEE Reinforcement Learning course. We focus on safe imitation learning for robotic manipulation.
